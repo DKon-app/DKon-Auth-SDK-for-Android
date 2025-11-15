@@ -102,8 +102,3 @@ Feel free to fork the repository and submit a pull request if you have improveme
 
 https://DKon.app/dev
 
-### Conclusion
-
-This `README.md` provides a comprehensive guide to the DKon Auth SDK for Android, outlining its features, installation steps, and usage instructions.
-
-If you have anything else you’d like to add or adjust, just let me know!
